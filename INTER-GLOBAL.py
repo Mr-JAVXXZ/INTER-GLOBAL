@@ -5,8 +5,7 @@ import random
 import socket
 
 ##################
-sock=socket.socket(AF_INET,socket.SOCK_DGRAM)
-bytes=random._urandom(1940)
+#BANTU SUPPORT AKUN SAYA YA!!
 ##################
 os.system("clear")
 os.system("figlet YOUR CERTIFICATE")
